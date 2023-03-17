@@ -9,6 +9,7 @@ p.textContent = "That's all folks!"
 
 const template =`
     <section>
+    <h2>My Jokes</h2>
         <ul>
         <li>${ladder}</li>
         <li>${pasta}</li>
